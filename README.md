@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/render?type=soft&color=00b4d8&height=250&section=header&text=THAI%20HUU%20THO&fontSize=80&animation=fadeIn" />
 
-  <h2>🌟 Senior Data Science & Business Analyst Student</h2>
+  <h2>Data Science & Business Analyst Student</h2>
   
   <p>
     <img src="https://img.shields.io/badge/University-HCMUS-blue?style=flat-square&logo=google-scholar" />
@@ -11,12 +11,12 @@
 
 ---
 
-### 🚀 Professional Summary
+### Professional Summary
 I am a **Senior Information Technology student** at the **University of Science (HCMUS - VNU)**, graduating in 2026. With a solid foundation in Data Science and hands-on experience as a Business Analyst Intern, I specialize in transforming raw data into strategic business insights.
 
-- 🎓 **Current Status:** Final-year student focusing on advanced Data Analytics and Machine Learning.
-- ⚡ **Technical Expertise:** Advanced SQL (RFM, Window Functions), Predictive Modeling, and Automated Data Collection.
-- 💬 **Ask me about:** E-commerce market analysis, Financial modeling, and Tableau storytelling.
+- **Current Status:** Final-year student focusing on advanced Data Analytics and Machine Learning.
+- **Technical Expertise:** Advanced SQL (RFM, Window Functions), Predictive Modeling, and Automated Data Collection.
+- **Ask me about:** E-commerce market analysis, Financial modeling, and Tableau storytelling.
 
 ---
 
@@ -36,14 +36,14 @@ I am a **Senior Information Technology student** at the **University of Science 
 
 ---
 
-### 📂 Capstone & Key Projects
-- **🛒 [Lazada Market Analysis](https://github.com/huuThoTT):** An end-to-end analytics project utilizing Selenium for web crawling and Power BI for trend forecasting.
-- **🏥 [Heart Disease UCI Pipeline](https://github.com/huuThoTT):** Designed a robust ML workflow for medical classification, focusing on model interpretability and accuracy.
-- **📈 [Sushi Business Management System](https://github.com/huuThoTT):** Developed a comprehensive database architecture and relational schema for operational optimization.
+### Capstone & Key Projects
+- **[Lazada Market Analysis](https://github.com/huuThoTT):** An end-to-end analytics project utilizing Selenium for web crawling and Power BI for trend forecasting.
+- **[Heart Disease UCI Pipeline](https://github.com/huuThoTT):** Designed a robust ML workflow for medical classification, focusing on model interpretability and accuracy.
+- **[Sushi Business Management System](https://github.com/huuThoTT):** Developed a comprehensive database architecture and relational schema for operational optimization.
 
 ---
 
-### 📊 GitHub Statistics
+### GitHub Statistics
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=huuThoTT&show_icons=true&theme=tokyonight" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huuThoTT&layout=compact&theme=tokyonight" height="170" />
@@ -51,7 +51,7 @@ I am a **Senior Information Technology student** at the **University of Science 
 
 ---
 
-### 📫 Let's Connect!
+### Let's Connect!
 <div align="center">
   <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:huutho1412ak@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
