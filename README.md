@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/Location-Ho%20Chi%20Minh%20City-orange?style=flat-square&logo=google-maps" />
   </p>
 
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=00b4d8&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=huuThoTT&label=Profile%20Views&color=00b4d8&style=flat-square" />
 </div>
 
 ---
@@ -41,16 +41,16 @@ I am a **Senior Information Technology student** at the **University of Science 
 ---
 
 ### 📂 Capstone & Key Projects
-- **🛒 [Lazada Market Analysis](https://github.com/YOUR_USERNAME):** An end-to-end analytics project utilizing Selenium for web crawling and Power BI for trend forecasting.
-- **🏥 [Heart Disease UCI Pipeline](https://github.com/YOUR_USERNAME):** Designed a robust ML workflow for medical classification, focusing on model interpretability and accuracy.
-- **📈 [Sushi Business Management System](https://github.com/YOUR_USERNAME):** Developed a comprehensive database architecture and relational schema for operational optimization.
+- **🛒 Lazada Market Analysis:** An end-to-end analytics project utilizing Selenium for web crawling and Power BI for trend forecasting.
+- **🏥 Heart Disease UCI Pipeline:** Designed a robust ML workflow for medical classification, focusing on model interpretability and accuracy.
+- **📈 Sushi Business Management System:** Developed a comprehensive database architecture and relational schema for operational optimization.
 
 ---
 
 ### 📊 GitHub Statistics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=huuThoTT&show_icons=true&theme=tokyonight" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huuThoTT&layout=compact&theme=tokyonight" height="170" />
 </div>
 
 ---
@@ -58,7 +58,7 @@ I am a **Senior Information Technology student** at the **University of Science 
 ### 📫 Let's Connect!
 <div align="center">
   <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:huutho1412ak@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
 
 ---
